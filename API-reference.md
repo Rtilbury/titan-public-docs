@@ -192,22 +192,44 @@ console.log(data.decision, data.reason);
 
 ⭐ 12. Compliance Notes
 
-Titan-X is designed to be fully compliant with:
+Titan-X is designed with privacy, transparency, and regulatory readiness in mind.
+It is not certified under any AI regulatory framework, but its architecture supports future compliance work through transparent, traceable, non-retentive processing.
 
-UK & EU AI Act
+Areas Titan-X is architected to support (not certified):
 
-US AI Safety directives (NIST)
+EU & UK AI Act – future-ready design principles
 
-GDPR
+Transparent signal processing
 
-ISO 42001 (AI management)
+Explainable adaptation logic
 
-Key features:
+No long-term data retention
 
-Zero data storage
+Clear human-oversight pathways
 
-Full explainability
+Traceable rule-based decisions
 
-No identity reconstruction
+US AI Safety & transparency principles (NIST-aligned patterns)
+(Not a certification — aligned with recommended best-practice themes.)
 
-No profiling or tracking
+GDPR core principles
+
+Data minimisation
+
+Purpose limitation
+
+No profiling or identity reconstruction
+
+No personal data storage
+
+Key design characteristics:
+
+Zero data storage — Titan-X processes signals in memory only.
+
+Transparent logic — every adaptation carries a human-readable explanation.
+
+No identity reconstruction — Titan-X cannot rebuild personal profiles.
+
+No profiling or behavioural tracking — no long-term data, cookies, IDs, or shadow graphs.
+
+Audit-ready telemetry — optional export of rule triggers, signal pathways, and adaptation explanations for teams that require traceability.
