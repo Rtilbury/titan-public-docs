@@ -17,7 +17,7 @@ Titan-X helps teams:
 
 - Detect friction, hesitation, anomalies, and confusion instantly  
 - Adapt experiences with transparent, human-reviewable rules  
-- Meet the strictest privacy and AI-safety requirements arriving in 2026  
+- Align with the strictest privacy and AI-safety requirements arriving in 2026  
 - Add adaptive intelligence to any product — without building ML pipelines, data layers, or risk systems  
 
 ---
