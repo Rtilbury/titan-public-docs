@@ -4,7 +4,7 @@ Titan-X is built on a strict event-driven architecture.
 
 Every interaction sent to Titan-X (signals, metadata, task identifiers) is processed as an event, and every adaptive output (recommendation, insight, explanation) is also an event.
 
-This event-level transparency is what makes Titan-X compliant with the 2026+ global AI regulations:
+This event-level transparency is what makes Titan-X align with the 2026+ global AI regulations:
 
 Explainable AI
 
@@ -213,7 +213,7 @@ Retention	Who It’s For	Notes
 
 No personal identifiers are ever included.
 
-⭐ 10. Compliance Notes (2026 AI Regulations)
+⭐ 10. Compliance Notes (Aligns with 2026 AI Regulations)
 
 Titan-X automatically satisfies:
 
