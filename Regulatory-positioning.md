@@ -47,7 +47,7 @@ Titan-X provides **adaptive experience recommendations**, not automated legal/ec
 
 ## EU AI Act Alignment
 
-Titan-X is designed to meet:
+Titan-X is designed to align with:
 
 - Transparency requirements  
 - Data governance standards without storing data  
