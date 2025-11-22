@@ -265,7 +265,7 @@ Each risk evaluation produces a decision event, e.g.:
 }
 
 
-This meets two 2026 requirements:
+This aligns with two of the 2026 requirements:
 
 Traceability – “What was the system doing at this moment?”
 
@@ -350,7 +350,7 @@ All changes are reversible, explainable, logged
 
 This is the opposite of “black box AI”.
 
-⭐ 11. Why Titan-X Is Regulator-Ready (2026 AI Rules)
+⭐ 11. Why Titan-X aligns with the (2026 AI Rules)
 
 Titan meets the upcoming requirements natively:
 
