@@ -15,7 +15,7 @@ Adaptive intelligence based on signals → rules → decisions
 
 Fully traceable and explainable
 
-Designed for 2026 EU/UK AI regulatory compliance
+Designed to align with future 2026 EU/UK AI regulations
 
 Titan-X is NOT:
 
